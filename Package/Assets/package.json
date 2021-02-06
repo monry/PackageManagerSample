@@ -1,0 +1,15 @@
+{
+  "name": "dev.monry.packagemanagersample.package",
+  "version": "0.0.1-preview.1",
+  "displayName": "PackageManagerSample Package",
+  "description": "Package sample for Unity Programming Bible",
+  "unity": "2020.2",
+  "dependencies": {
+  },
+  "keywords": [],
+  "author": {
+    "name": "Tetsuya Mori",
+    "email": "noreply@github.com",
+    "url": "https://github.com/monry"
+  }
+}
